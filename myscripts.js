@@ -5,4 +5,6 @@ if(ap.includes(guest)){
 }
 else{
     alert("please enter valid name");
+   
+    var guest1=prompt("what is your name?");
 }
