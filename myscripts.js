@@ -1,6 +1,6 @@
-var anant=["anant","dipesh","savan"];
+var ap=["anant","dipesh","savan"];
 var guest=prompt("what is your name?");
-if(anant.includes(guest)){
+if(ap.includes(guest)){
     alert("welcome");
 }
 else{
