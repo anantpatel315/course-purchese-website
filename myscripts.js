@@ -5,5 +5,5 @@ if(a>=b)
     alert("You are anant");
 }
 else{
-    alert("You are Good person");
+    console.log("helow");
 }
