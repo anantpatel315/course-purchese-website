@@ -1,9 +1,3 @@
-var a=10;
-var b=20;
-if(a>=b)
-{
-    alert("You are anant");
-}
-else{
-    console.log("helow");
-}
+var anant=["anant","dipesh","savan"];
+var guest=prompt("what is your name?");
+anant.includes(guest);
